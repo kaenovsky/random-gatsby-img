@@ -5,4 +5,4 @@ This one is just a random image loaded as a component.
 
 ### check out Gatsby tutorials on https://www.gatsbyjs.com/docs/
 
-Also deployed the build (static site) on Surge
+Also deployed the build (static site) on Surge: https://scattered-reason.surge.sh
