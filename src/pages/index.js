@@ -7,7 +7,7 @@ export default function Home() {
     <div style={{ color: `white` }}>
       <Header headerText="what a random pic" />
       <Random />
-      <p>[ random images from <a href="https://unsplash.com" target="_blank">unsplash.com</a> ]</p>
+      <p>[ random images from <a href="https://unsplash.com" target="_blank" rel="noreferrer">unsplash.com</a> ]</p>
       <Header headerText="but it's a component" />
       <h4> ¯\_(ツ)_/¯ </h4>
     </div>
